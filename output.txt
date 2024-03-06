@@ -1,0 +1,36 @@
+    ssn     | salary |        fname         |        lname         |   address    |    dob     |    bid     
+------------+--------+----------------------+----------------------+--------------+------------+------------
+ 12360000   |     12 | Ali                  | Root                 | 123 Shady Dr | 1997-10-29 | TX568     
+ 123456789  |     10 | Sherry               | Zahid                | 345 Moss Ln  | 2000-10-28 | CF326     
+ 123331243  |     10 | Akash                | Gupta                | 234 Holly Dr | 2001-09-22 | AB723     
+(3 rows)
+
+     title     
+---------------
+ SpookFest
+ Mist Fire
+ Munchkin Trip
+(3 rows)
+
+                                                email                                                 
+------------------------------------------------------------------------------------------------------
+ obasit@fsu.edu                                                                                      
+ aseemmishra@yahoo.com                                                                               
+ saad@usf.edu                                                                                        
+(3 rows)
+
+    bid     
+------------
+ CF326     
+ FL230     
+ TX568     
+(3 rows)
+
+    title    |                                               director                                               | price 
+-------------+------------------------------------------------------------------------------------------------------+-------
+ SpookFest   | Babar Azam                                                                                           | 10.23
+ Jungle Book | Chris Gayle                                                                                          |    11
+ Mist Fire   | Virat Kohli                                                                                          |  12.3
+ Aquaduct    | Joe Root                                                                                             | 11.82
+(4 rows)
+
